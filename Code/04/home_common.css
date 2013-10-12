@@ -1,0 +1,46 @@
+html {
+	background: #e67b09
+}
+#Header {	
+	background-color: #488ccc; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 20px; color: #ffa900;
+}
+
+#Footer {
+	background-color: #dd2222; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 20px; color: #ffa900;
+	font-style: italic;
+}
+
+#earth{
+	background-color: #bf0; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 20px; 
+	color: #ffa900;
+}
+
+h2{
+	background-color: #0fff00; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 15px; 
+	color: #f6ef05;
+}
+
+h3{
+	background-color: #3306f0; 
+	font-family: Arial, sans-serif; 
+	font-size: 12px; color: #fff
+}
+
+h4{
+	background-color: #eee; 
+	font-family: Arial, sans-serif; 
+	font-size: 17px; color: #E00
+}
+
+h1, h2, h3, h4 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
